@@ -2,7 +2,7 @@ Jesse Saenz
 Fall 2012
 Novak CS 429
 
-example usage: java Cons
+example usage: 1. Compile Cons.java 2. java Cons
 
 Cons findpath(Object item, Object cave) - finds object item in tree cave and returns path to it
 Object follow(Cons path, object cave) - follows it
